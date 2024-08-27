@@ -14,4 +14,6 @@
             </div>
         </div>
     </div>
+
+    <example-component></example-component>
 </x-app-layout>
